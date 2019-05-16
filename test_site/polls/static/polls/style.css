@@ -1,0 +1,9 @@
+li a {
+    color : green;
+} 
+
+body {
+    background: white url("images/hollow_knight.png") no-repeat;
+    width: 100%;
+    height: 100%;
+}
